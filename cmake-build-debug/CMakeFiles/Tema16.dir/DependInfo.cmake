@@ -4,6 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/edidi/CLionProjects/Tema16/Casa.cpp" "C:/Users/edidi/CLionProjects/Tema16/cmake-build-debug/CMakeFiles/Tema16.dir/Casa.cpp.obj"
+  "C:/Users/edidi/CLionProjects/Tema16/ObArray.cpp" "C:/Users/edidi/CLionProjects/Tema16/cmake-build-debug/CMakeFiles/Tema16.dir/ObArray.cpp.obj"
+  "C:/Users/edidi/CLionProjects/Tema16/Object.cpp" "C:/Users/edidi/CLionProjects/Tema16/cmake-build-debug/CMakeFiles/Tema16.dir/Object.cpp.obj"
+  "C:/Users/edidi/CLionProjects/Tema16/Vehicul.cpp" "C:/Users/edidi/CLionProjects/Tema16/cmake-build-debug/CMakeFiles/Tema16.dir/Vehicul.cpp.obj"
   "C:/Users/edidi/CLionProjects/Tema16/main.cpp" "C:/Users/edidi/CLionProjects/Tema16/cmake-build-debug/CMakeFiles/Tema16.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

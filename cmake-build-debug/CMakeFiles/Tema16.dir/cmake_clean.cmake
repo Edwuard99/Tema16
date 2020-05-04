@@ -1,4 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Tema16.dir/Casa.cpp.obj"
+  "CMakeFiles/Tema16.dir/ObArray.cpp.obj"
+  "CMakeFiles/Tema16.dir/Object.cpp.obj"
+  "CMakeFiles/Tema16.dir/Vehicul.cpp.obj"
   "CMakeFiles/Tema16.dir/main.cpp.obj"
   "Tema16.exe"
   "Tema16.exe.manifest"

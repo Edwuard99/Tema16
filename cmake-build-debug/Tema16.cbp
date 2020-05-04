@@ -80,6 +80,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/edidi/CLionProjects/Tema16/Casa.cpp">
+			<Option target="Tema16"/>
+		</Unit>
+		<Unit filename="C:/Users/edidi/CLionProjects/Tema16/Casa.h">
+			<Option target="Tema16"/>
+		</Unit>
+		<Unit filename="C:/Users/edidi/CLionProjects/Tema16/ObArray.cpp">
+			<Option target="Tema16"/>
+		</Unit>
+		<Unit filename="C:/Users/edidi/CLionProjects/Tema16/ObArray.h">
+			<Option target="Tema16"/>
+		</Unit>
+		<Unit filename="C:/Users/edidi/CLionProjects/Tema16/Object.cpp">
+			<Option target="Tema16"/>
+		</Unit>
+		<Unit filename="C:/Users/edidi/CLionProjects/Tema16/Object.h">
+			<Option target="Tema16"/>
+		</Unit>
+		<Unit filename="C:/Users/edidi/CLionProjects/Tema16/Vehicul.cpp">
+			<Option target="Tema16"/>
+		</Unit>
+		<Unit filename="C:/Users/edidi/CLionProjects/Tema16/Vehicul.h">
+			<Option target="Tema16"/>
+		</Unit>
 		<Unit filename="C:/Users/edidi/CLionProjects/Tema16/main.cpp">
 			<Option target="Tema16"/>
 		</Unit>
